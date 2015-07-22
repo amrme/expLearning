@@ -7,7 +7,8 @@ int main()
 	char *pointer; // A pointer, meant for a character array 
 	char *pointer2; // And yet another one
 	strcpy(str_a, "Hello, world!\n");
-	pointer = str_a; // Set printf(pointer);
+	pointer = str_a; // Set 
+	printf(pointer);
 	pointer2 = pointer + 2; 
 	printf(pointer2); 
 	strcpy(pointer2, "y you guys!\n"); // Copy into that spot.
