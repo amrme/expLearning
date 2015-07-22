@@ -14,6 +14,3 @@ int main()
 	// Print again.
 	printf(pointer);
 }
-
-
-￼
